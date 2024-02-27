@@ -25,7 +25,7 @@ This project is a responsive FAQ Accordion created as a challenge from Frontend 
 
 ### Screenshot mobile
 
-![](./screenshots/screenshot-mobile.png)
+![](./screenshots/screenshot-mobile.jpg)
 
 ### Links
 
