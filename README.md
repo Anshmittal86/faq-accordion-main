@@ -29,7 +29,7 @@ This project is a responsive FAQ Accordion created as a challenge from Frontend 
 
 ### Links
 
-- Solution URL: [See here](https://github.com/Anshmittal86/faq-accordion-main)
+- Solution URL: [See here](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz/hub)
 - Live Site URL: [Live here](https://anshmittal86.github.io/faq-accordion-main/)
 
 ### Built with
