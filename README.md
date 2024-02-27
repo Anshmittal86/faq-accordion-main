@@ -25,12 +25,12 @@ This project is a responsive FAQ Accordion created as a challenge from Frontend 
 
 ### Screenshot mobile
 
-![](./screenshots/screenshot-mobile.png)
+![](./screenshots/screenshot-mobile.jpg)
 
 ### Links
 
-- Solution URL: [See here](https://github.com/Anshmittal86/Blog-preview-card/)
-- Live Site URL: [Live here](https://anshmittal86.github.io/Blog-preview-card/)
+- Solution URL: [See here](https://www.frontendmentor.io/challenges/faq-accordion-wyfFdeBwBz/hub)
+- Live Site URL: [Live here](https://anshmittal86.github.io/faq-accordion-main/)
 
 ### Built with
 
